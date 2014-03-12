@@ -1,0 +1,23 @@
+<Lion.Party.Guests>
+	<animal name="Mouse">
+		<preferred.food>Cheese</preferred.food>
+	</animal>
+	<animal name="Cat">
+		<preferred.food>Mouse</preferred.food>
+	</animal>
+	<animal name="Vulture">
+		<preferred.food>Anything</preferred.food>
+	</animal>
+	<animal name="Dog">
+		<preferred.food>Cat</preferred.food>
+	</animal>
+	<animal name="Goat">
+		<preferred.food>Grass</preferred.food>
+	</animal>
+	<animal name="Tiger">
+		<preferred.food>Goat</preferred.food>
+	</animal>	
+	<animal name="Lion">
+		<preferred.food>Anything</preferred.food>
+	</animal>
+</Lion.Party.Guests>
